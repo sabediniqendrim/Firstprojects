@@ -30,6 +30,9 @@ Dies ist ein Projekt zur Verwaltung von Physiotherapiediensten, entwickelt mit *
 - Apache oder Nginx
 
 ## 🖼️ Screenshots der Anwendung
+![Screenshot 2024-12-05 150140](https://github.com/user-attachments/assets/161efaf5-ab2d-4def-a083-8e2701df1c1b)
+![Screenshot 2024-12-05 150205](https://github.com/user-attachments/assets/a417016a-7d03-4535-8a1e-eadad528f08c)
+![Screenshot 2024-12-05 150326](https://github.com/user-attachments/assets/7aa8942a-285d-4f27-b082-a7d06cc54106)
 
 
 ## 📜 Lizenz
